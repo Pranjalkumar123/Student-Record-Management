@@ -46,3 +46,5 @@ Name: Pranjal Kumar
 
 Email: 2022ugcs121@nitjsr.ac.in
 https://github.com/Pranjalkumar123
+
+📱 All done on phone using Cxxdroid app. No laptop used.
